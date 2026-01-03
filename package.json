@@ -12,5 +12,13 @@
   },
   "devDependencies": {
     "vite": "^4.0.0"
-  }
+  },
+  "keywords": [
+    "automation",
+    "developer-tools",
+    "productivity",
+    "open-source",
+    "viral"
+  ],
+  "author": "Ashraf Morningstar"
 }
